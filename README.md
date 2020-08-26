@@ -1,14 +1,20 @@
+
 # Command Line Intro
 
 For humans to interact with a computer, we need an *interface*: a place where the human can somehow give the computer commands and the information it needs to carry out those commands.
 
 What are some interfaces you know? What are some other possible interfaces?
 
+
+
 ## A Video Tour
 
-Here's a video we made: <https://youtu.be/wowgqRyODCk>
+I'll give a demo in class, but you can also check out this video made by partners at Liberal Arts in Silicon Valley: <https://youtu.be/wowgqRyODCk>
 
-It's worth watching even if you're already a little familiar with the command line. It's probably worth watching more than once. Try to follow along, don't just sit back and watch.
+Try to follow along, don't just sit back and watch.
+
+
+
 
 ## The Command-Line
 
